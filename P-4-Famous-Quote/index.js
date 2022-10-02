@@ -1,4 +1,1 @@
-const Name = "Elon Musk";
-const Quote = "Life is to short for long-term grudges";
-
-console.log(`${Name} once said, "${Quote}" `);
+console.log(`Elon Musk once said, "Life is to short for long-term grudges" `);
